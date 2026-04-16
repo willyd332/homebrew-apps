@@ -1,6 +1,6 @@
 cask "ticket-mill" do
   version "1.0.0"
-  sha256 "548f7bc2399f52eeccd501234c40129abc282497807fb23331b68a494168e9dc"
+  sha256 "2f8bd801bd41849685ccdf34ae776834f6ea9815c9f5a7543d622bf082bec751"
 
   url "https://ticketmill.app/downloads/Ticket-Mill-#{version}.dmg"
   name "Ticket Mill"
